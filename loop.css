@@ -1,0 +1,17 @@
+/* style whole page using bg.color,border,padding and border radius */
+.boundary{
+    background-color: blueviolet;
+    color: white;
+    border: 2px,solid, red;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+/* style assignment heading */
+h1{
+    background-color: yellow;
+    color: green;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
